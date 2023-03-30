@@ -1,6 +1,6 @@
 # Cobol projects
 
-To compile projects written in [Cobol]().
+To compile projects written in [Cobol](https://developer.ibm.com/languages/cobol/).
 
 ## Docker image
 
